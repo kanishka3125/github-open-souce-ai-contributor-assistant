@@ -278,8 +278,7 @@ VS Code extension
 
 👥 Team
 ```
-Hritika Roy - Frontend & API Integration
-Kanishka Sharma - Backend & Repository Processing
+Kanishka Sharma - Frontend and Backend
 Hari Pooreni Balaji - AI / RAG Pipeline
 ```
 📌 Project Status
